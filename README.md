@@ -27,7 +27,7 @@ This project demonstrates how to control accessories connected to an ESP32 micro
 
 Download the Android app APK from the following GitHub link:
 
-[Download Android App APK](https://github.com/MagicBulletPro/esp32-bluetooth-home-control/android_app/Magic-BT-V1.0.apk)
+[Download Android App APK](android_app/Magic-BT-V1.0.apk)
 
 ### Usage
 
